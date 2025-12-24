@@ -1,0 +1,7 @@
+- Transformers 
+- Classical Architectures 
+- Attention Enhancments 
+- Scaling & Efficiency
+- Specialized & Vision
+- Memory & Advanced 
+- Advanced Training [ Optimization ]
